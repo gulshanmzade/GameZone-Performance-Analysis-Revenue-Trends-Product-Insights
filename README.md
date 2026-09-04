@@ -1,6 +1,6 @@
 # GameZone-Performance-Analysis-Revenue-Trends-Product-Insights
 
-# 🎮 GameZone Sales Analysis & Data Pipeline
+# 🎮 GameZone Sales Analysis
 
 ## 📌 Project Overview
 An end-to-end data cleaning and exploratory data analysis (EDA) project evaluating **$6.15M** in transactional revenue for GameZone (a fictional gaming e-commerce company). The analysis covers **20,000+ records** spanning **Jan 2019 – Feb 2021** to surface key sales trends, product performance, and regional drivers for executive stakeholders.
